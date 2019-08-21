@@ -1,4 +1,4 @@
-# This checks the selected Directory for varieties of infections.
+# This checks the selected Directory for a variety of infections.
 ----------------------------------------------------------------------
 EXAMPLES -
 !readme.exe
