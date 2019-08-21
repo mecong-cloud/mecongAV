@@ -1,0 +1,46 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+mecongAV
+</name>
+</assembly>
+<members>
+<member name="T:mecongAV.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:mecongAV.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:mecongAV.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:mecongAV.My.Resources.Resources.viruslist">
+<summary>
+  Looks up a localized string similar to !readme.exe
+!update.exe
+PROGRAM FILES\search Assistant\hsr.dll
+PROGRAM FILES\search Assistant\sachook.dll
+PROGRAM FILES\search Assistant\sain.exe
+PROGRAM FILES\search Assistant\sau.dll
+PROGRAM FILES\search Assistant\sauhook.dll
+PROGRAM FILES\Search\getst.exe
+PROGRAM FILES\Search\main.exe
+PROGRAM FILES\Search\plugin.dll
+PROGRAM FILES\whgue\whgue.exe
+PROGRAM FILES\ACM\ACMConfig.exe
+PROGRAM FILES\ACM\ACMDLL.dll
+PROGRAM FILES\ACM\ACMService.exe
+PROGRAM FILES\ACM\zsHook.dll
+PROGRAM FILES\Activity  [rest of string was truncated]&quot;;.
+</summary>
+</member>
+</members>
+</doc>

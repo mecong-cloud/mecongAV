@@ -1,0 +1,11 @@
+C:\Users\cow00\source\repos\mecongAV\mecongAV\obj\Debug\mecongAV.Form1.resources
+C:\Users\cow00\source\repos\mecongAV\mecongAV\obj\Debug\mecongAV.Resources.resources
+C:\Users\cow00\source\repos\mecongAV\mecongAV\obj\Debug\mecongAV.vbproj.GenerateResource.cache
+C:\Users\cow00\source\repos\mecongAV\mecongAV\obj\Debug\mecongAV.vbproj.CoreCompileInputs.cache
+C:\Users\cow00\source\repos\mecongAV\mecongAV\bin\Debug\mecongAV.exe.config
+C:\Users\cow00\source\repos\mecongAV\mecongAV\bin\Debug\mecongAV.exe
+C:\Users\cow00\source\repos\mecongAV\mecongAV\bin\Debug\mecongAV.pdb
+C:\Users\cow00\source\repos\mecongAV\mecongAV\bin\Debug\mecongAV.xml
+C:\Users\cow00\source\repos\mecongAV\mecongAV\obj\Debug\mecongAV.exe
+C:\Users\cow00\source\repos\mecongAV\mecongAV\obj\Debug\mecongAV.xml
+C:\Users\cow00\source\repos\mecongAV\mecongAV\obj\Debug\mecongAV.pdb
